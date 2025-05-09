@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @Ineva
-- 👀 I’m interested in learning coding, gaming and more...
-- 🌱 I’m currently learning html, css and js...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Ineva-A/Ineva-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Hi all, I'm a moderator on a big server.
-I play minetest right now on the phone. And  I have so many suggestions for improvement.
 
-I will learning to programming, I'm new with it.
+I am Ineva – a thoughtful soul with a love for words, silence, and writing.
+I enjoy turning thoughts into texts, capturing emotions in language, and making small things meaningful.
+Not to impress, but to touch.
+
+Since 2019, I’ve enjoyed playing Luanti, constantly diving into new creative projects. On GitHub, I’m here to learn new things – currently Lua – and to creatively play with systems, whether in code or expression.
+
+
